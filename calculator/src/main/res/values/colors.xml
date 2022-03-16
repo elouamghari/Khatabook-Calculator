@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_button_number_stroke_color">#4A403A</color>
+    <color name="default_button_number_pressed_color">#B8A498</color>
+    <color name="default_button_number_default_color">#FFFFFF</color>
+    <color name="default_button_number_text_color">#4A403A</color>
+
+    <color name="default_button_operation_stroke_color">#4A403A</color>
+    <color name="default_button_operation_pressed_color">#FFBF66</color>
+    <color name="default_button_operation_default_color">#FFDDAE</color>
+    <color name="default_button_operation_text_color">#4A403A</color>
+
+    <color name="default_button_delete_stroke_color">#FC4B4B</color>
+    <color name="default_button_delete_pressed_color">#F6C3C6</color>
+    <color name="default_button_delete_default_color">#f6e6e7</color>
+    <color name="default_button_delete_text_color">#FC4B4B</color>
+</resources>

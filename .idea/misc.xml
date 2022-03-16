@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/app/src/main/res/drawable/khatabook_blue_button_background.xml" value="0.2" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/app/src/main/res/drawable/khatabook_button_ripple.xml" value="0.2" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/app/src/main/res/drawable/khatabook_button_ripple_corners.xml" value="0.2" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/app/src/main/res/drawable/khatabook_light_blue_button_background.xml" value="0.2" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/app/src/main/res/drawable/khatabook_white_button_background.xml" value="0.2" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/app/src/main/res/layout/activity_main.xml" value="0.25025641025641027" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/app/src/main/res/layout/calculator_layout.xml" value="0.25025641025641027" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/app/src/main/res/layout/khatabook_calculation_details_card.xml" value="0.25025641025641027" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/app/src/main/res/layout/khatabook_calculator_layout.xml" value="0.264" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/app/src/main/res/layout/test.xml" value="0.4" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/calculator/src/main/res/drawable/background_calculator_button.xml" value="0.48055555555555557" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/calculator/src/main/res/drawable/background_calculator_button_delete.xml" value="0.175" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/calculator/src/main/res/drawable/background_calculator_button_number.xml" value="0.175" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/calculator/src/main/res/drawable/background_calculator_button_operation.xml" value="0.175" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/calculator/src/main/res/drawable/ic_delete.xml" value="0.175" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/calculator/src/main/res/layout/calculator_view.xml" value="0.25025641025641027" />
+        <entry key="..\:/Android Studio Projects/Libraries/CalculatorApp/calculator/src/main/res/layout/calculator_view_layout.xml" value="0.25025641025641027" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

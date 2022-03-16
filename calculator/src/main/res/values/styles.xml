@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DefaultCalculatorButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">@dimen/default_button_height</item>
+        <item name="android:textSize">@dimen/default_button_text_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+
+    <style name="DefaultCalculatorNumberButton" parent="DefaultCalculatorButton">
+        <item name="android:textColor">@color/default_button_number_text_color</item>
+        <item name="android:background">@drawable/background_calculator_button_number</item>
+    </style>
+
+    <style name="DefaultCalculatorOperationButton" parent="DefaultCalculatorButton">
+        <item name="android:textColor">@color/default_button_operation_text_color</item>
+        <item name="android:background">@drawable/background_calculator_button_operation</item>
+    </style>
+
+    <style name="DefaultCalculatorDeleteButton" parent="DefaultCalculatorButton">
+        <item name="android:textColor">@color/default_button_delete_text_color</item>
+        <item name="android:background">@drawable/background_calculator_button_delete</item>
+    </style>
+
+</resources>

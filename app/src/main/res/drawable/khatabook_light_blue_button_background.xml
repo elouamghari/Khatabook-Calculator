@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true"
+        android:drawable="@drawable/khatabook_button_ripple"/>
+    <item>
+        <shape>
+            <solid
+                android:color="@color/lightBlueColor"/>
+            <corners
+                android:radius="@dimen/khatabook_button_radius"/>
+        </shape>
+    </item>
+</selector>

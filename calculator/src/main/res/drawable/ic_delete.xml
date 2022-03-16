@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="28dp"
+    android:height="18dp"
+    android:viewportWidth="28"
+    android:viewportHeight="18">
+    <path
+        android:pathData="M26.9731,0L8.0441,0C7.7552,0 7.4796,0.1253 7.2849,0.3456L0.2677,8.2869C-0.0892,8.691 -0.0892,9.3086 0.2677,9.7131L7.2849,17.6544C7.4796,17.8747 7.7552,18 8.0441,18L26.9731,18C27.5403,18 28,17.526 28,16.9415L28,1.0589C28,0.474 27.5403,0 26.9731,0ZM25.9463,15.8823L8.4976,15.8823L2.4164,8.9998L8.4976,2.1173L25.9463,2.1173L25.9463,15.8823L25.9463,15.8823Z"
+        android:strokeWidth="1"
+        android:fillColor="@color/default_button_delete_text_color"
+        android:fillType="nonZero"
+        android:strokeColor="#00000000" />
+    <path
+        android:pathData="M21.6787,5.3092C21.2534,4.8934 20.5695,4.8974 20.1497,5.3185L14.312,11.1757C13.8925,11.5968 13.8965,12.275 14.3213,12.6911C14.5322,12.8972 14.8064,13 15.0809,13C15.3595,13 15.6388,12.8936 15.8503,12.6818L21.688,6.8246C22.1075,6.4035 22.1035,5.7253 21.6787,5.3092Z"
+        android:strokeWidth="1"
+        android:fillColor="@color/default_button_delete_text_color"
+        android:fillType="nonZero"
+        android:strokeColor="#00000000" />
+    <path
+        android:pathData="M21.6816,11.1495L15.8245,5.3118C15.4034,4.8924 14.7248,4.8967 14.3095,5.3212C13.8934,5.7461 13.8973,6.4305 14.3184,6.8503L20.1754,12.6883C20.3844,12.8962 20.6562,13 20.9283,13C21.2044,13 21.4812,12.8926 21.6905,12.6786C22.1066,12.2537 22.1027,11.5693 21.6816,11.1495Z"
+        android:strokeWidth="1"
+        android:fillColor="@color/default_button_delete_text_color"
+        android:fillType="nonZero"
+        android:strokeColor="#00000000" />
+</vector>
