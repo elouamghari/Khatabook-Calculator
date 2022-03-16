@@ -1,2 +1,2 @@
 # Khatabook-Calculator
-![alt text](screenshot.jpg)
+<img src="screenshot.jpg" alt="drawing" width="200"/>
